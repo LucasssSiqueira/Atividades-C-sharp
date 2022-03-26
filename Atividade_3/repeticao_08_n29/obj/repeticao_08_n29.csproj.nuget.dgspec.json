@@ -1,0 +1,65 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Lucas siqueira\\Desktop\\TEP\\repeticao_08_n29\\repeticao_08_n29.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Lucas siqueira\\Desktop\\TEP\\repeticao_08_n29\\repeticao_08_n29.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Lucas siqueira\\Desktop\\TEP\\repeticao_08_n29\\repeticao_08_n29.csproj",
+        "projectName": "repeticao_08_n29",
+        "projectPath": "C:\\Users\\Lucas siqueira\\Desktop\\TEP\\repeticao_08_n29\\repeticao_08_n29.csproj",
+        "packagesPath": "C:\\Users\\Lucas siqueira\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lucas siqueira\\Desktop\\TEP\\repeticao_08_n29\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Lucas siqueira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

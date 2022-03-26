@@ -1,0 +1,15 @@
+C:\Users\Lucas siqueira\Desktop\TEP\Atividade2_Pag35_n29\Atividade2_Pag35_n29\bin\Debug\netcoreapp3.1\Atividade2_Pag35_n29.exe
+C:\Users\Lucas siqueira\Desktop\TEP\Atividade2_Pag35_n29\Atividade2_Pag35_n29\bin\Debug\netcoreapp3.1\Atividade2_Pag35_n29.deps.json
+C:\Users\Lucas siqueira\Desktop\TEP\Atividade2_Pag35_n29\Atividade2_Pag35_n29\bin\Debug\netcoreapp3.1\Atividade2_Pag35_n29.runtimeconfig.json
+C:\Users\Lucas siqueira\Desktop\TEP\Atividade2_Pag35_n29\Atividade2_Pag35_n29\bin\Debug\netcoreapp3.1\Atividade2_Pag35_n29.runtimeconfig.dev.json
+C:\Users\Lucas siqueira\Desktop\TEP\Atividade2_Pag35_n29\Atividade2_Pag35_n29\bin\Debug\netcoreapp3.1\Atividade2_Pag35_n29.dll
+C:\Users\Lucas siqueira\Desktop\TEP\Atividade2_Pag35_n29\Atividade2_Pag35_n29\bin\Debug\netcoreapp3.1\Atividade2_Pag35_n29.pdb
+C:\Users\Lucas siqueira\Desktop\TEP\Atividade2_Pag35_n29\Atividade2_Pag35_n29\obj\Debug\netcoreapp3.1\Atividade2_Pag35_n29.csprojAssemblyReference.cache
+C:\Users\Lucas siqueira\Desktop\TEP\Atividade2_Pag35_n29\Atividade2_Pag35_n29\obj\Debug\netcoreapp3.1\Atividade2_Pag35_n29.Form1.resources
+C:\Users\Lucas siqueira\Desktop\TEP\Atividade2_Pag35_n29\Atividade2_Pag35_n29\obj\Debug\netcoreapp3.1\Atividade2_Pag35_n29.csproj.GenerateResource.cache
+C:\Users\Lucas siqueira\Desktop\TEP\Atividade2_Pag35_n29\Atividade2_Pag35_n29\obj\Debug\netcoreapp3.1\Atividade2_Pag35_n29.AssemblyInfoInputs.cache
+C:\Users\Lucas siqueira\Desktop\TEP\Atividade2_Pag35_n29\Atividade2_Pag35_n29\obj\Debug\netcoreapp3.1\Atividade2_Pag35_n29.AssemblyInfo.cs
+C:\Users\Lucas siqueira\Desktop\TEP\Atividade2_Pag35_n29\Atividade2_Pag35_n29\obj\Debug\netcoreapp3.1\Atividade2_Pag35_n29.csproj.CoreCompileInputs.cache
+C:\Users\Lucas siqueira\Desktop\TEP\Atividade2_Pag35_n29\Atividade2_Pag35_n29\obj\Debug\netcoreapp3.1\Atividade2_Pag35_n29.dll
+C:\Users\Lucas siqueira\Desktop\TEP\Atividade2_Pag35_n29\Atividade2_Pag35_n29\obj\Debug\netcoreapp3.1\Atividade2_Pag35_n29.pdb
+C:\Users\Lucas siqueira\Desktop\TEP\Atividade2_Pag35_n29\Atividade2_Pag35_n29\obj\Debug\netcoreapp3.1\Atividade2_Pag35_n29.genruntimeconfig.cache

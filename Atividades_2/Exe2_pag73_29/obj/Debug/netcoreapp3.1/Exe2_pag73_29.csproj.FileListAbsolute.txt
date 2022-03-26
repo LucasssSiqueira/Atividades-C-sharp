@@ -1,0 +1,15 @@
+C:\Users\Lucas siqueira\Documents\TEP\Exe2_pag73_29\bin\Debug\netcoreapp3.1\Exe2_pag73_29.exe
+C:\Users\Lucas siqueira\Documents\TEP\Exe2_pag73_29\bin\Debug\netcoreapp3.1\Exe2_pag73_29.deps.json
+C:\Users\Lucas siqueira\Documents\TEP\Exe2_pag73_29\bin\Debug\netcoreapp3.1\Exe2_pag73_29.runtimeconfig.json
+C:\Users\Lucas siqueira\Documents\TEP\Exe2_pag73_29\bin\Debug\netcoreapp3.1\Exe2_pag73_29.runtimeconfig.dev.json
+C:\Users\Lucas siqueira\Documents\TEP\Exe2_pag73_29\bin\Debug\netcoreapp3.1\Exe2_pag73_29.dll
+C:\Users\Lucas siqueira\Documents\TEP\Exe2_pag73_29\bin\Debug\netcoreapp3.1\Exe2_pag73_29.pdb
+C:\Users\Lucas siqueira\Documents\TEP\Exe2_pag73_29\obj\Debug\netcoreapp3.1\Exe2_pag73_29.csprojAssemblyReference.cache
+C:\Users\Lucas siqueira\Documents\TEP\Exe2_pag73_29\obj\Debug\netcoreapp3.1\Exe2_pag73_29.Form1.resources
+C:\Users\Lucas siqueira\Documents\TEP\Exe2_pag73_29\obj\Debug\netcoreapp3.1\Exe2_pag73_29.csproj.GenerateResource.cache
+C:\Users\Lucas siqueira\Documents\TEP\Exe2_pag73_29\obj\Debug\netcoreapp3.1\Exe2_pag73_29.AssemblyInfoInputs.cache
+C:\Users\Lucas siqueira\Documents\TEP\Exe2_pag73_29\obj\Debug\netcoreapp3.1\Exe2_pag73_29.AssemblyInfo.cs
+C:\Users\Lucas siqueira\Documents\TEP\Exe2_pag73_29\obj\Debug\netcoreapp3.1\Exe2_pag73_29.csproj.CoreCompileInputs.cache
+C:\Users\Lucas siqueira\Documents\TEP\Exe2_pag73_29\obj\Debug\netcoreapp3.1\Exe2_pag73_29.dll
+C:\Users\Lucas siqueira\Documents\TEP\Exe2_pag73_29\obj\Debug\netcoreapp3.1\Exe2_pag73_29.pdb
+C:\Users\Lucas siqueira\Documents\TEP\Exe2_pag73_29\obj\Debug\netcoreapp3.1\Exe2_pag73_29.genruntimeconfig.cache
